@@ -16,6 +16,8 @@
 - [webpack](https://webpack.js.org/)
 - [webpack-cli](https://www.npmjs.com/package/webpack-cli)
 - [webpack-dev-server](https://github.com/webpack/webpack-dev-server)
+- [css-loader](https://www.npmjs.com/package/css-loader)
+- [style-loader](https://www.npmjs.com/package/style-loader)
 
 ## Tools
 
